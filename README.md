@@ -7,7 +7,7 @@
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wagner-ostorari-filho-11977134/?trk=opento_sprofile_goalscard)
 
-## Tecnologias que eu uso no meu dia:
+## Tecnologias que eu uso no meu dia a dia:
 
 <div style="display: inline_block">
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
