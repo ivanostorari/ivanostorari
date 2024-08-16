@@ -1,4 +1,4 @@
-### Olá! Eu sou Ivan Wagner 👋
+## Olá! Eu sou Ivan Wagner 👋
 
 - 🔭 I'm currently working on Back End with C#...
   
