@@ -1,5 +1,6 @@
 
-## Olá! Eu sou Ivan Wagner 👋
+## 
+Olá! Eu sou Ivan Wagner 👋
 
 - 🔭 I'm currently working on Back End with C#...
   
@@ -13,7 +14,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivanostorari&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-## Tecnologias que eu uso no meu dia a dia:    
+## 
+Tecnologias que eu uso no meu dia a dia:    
 
 <div style="display: inline_block">
   
@@ -29,7 +31,8 @@
 
 </div><br/> 
 
-## Tecnologias em desenvolvimento:
+## 
+Tecnologias em desenvolvimento:
   
 <div style="display: inline_block">
     
@@ -45,7 +48,8 @@
   
 </div><br/>
 
-## Tecnologias que ainda vou desenvolver:
+## 
+Tecnologias que ainda vou desenvolver:
 
 <div style="display: inline_block">
  
@@ -63,8 +67,8 @@
   
 </div><br/>
 
-
-##
+## 
+Redes Sociais
   
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wagner-ostorari-filho-11977134/?trk=opento_sprofile_goalscard)
