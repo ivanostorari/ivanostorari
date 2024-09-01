@@ -7,11 +7,6 @@
   
 - 😄 Pronouns: He/Him...
   
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wagner-ostorari-filho-11977134/?trk=opento_sprofile_goalscard)
-
-
-
 <div align="center">
   <a href="https://github.com/ivanostorari">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -67,6 +62,9 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
 </div><br/>
+
+[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wagner-ostorari-filho-11977134/?trk=opento_sprofile_goalscard)
 
 
 
