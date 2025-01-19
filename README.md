@@ -51,6 +51,8 @@
 
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
+  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+
   
 </div><br/>
 
@@ -58,17 +60,11 @@
 
 <div style="display: inline_block">
  
-  
-  
-  
-  
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+   
   
-  
-  
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
 </div><br/>
 
