@@ -58,8 +58,6 @@
 
 
   
-
-  
 </div><br/>
 
 ## Tecnologias que ainda vou desenvolver:
@@ -70,9 +68,18 @@
   
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
    
+ </div><br/>
+
+ ## Escolas:
+
+ <div style="display: inline_block">
  
+  <img align="center" alt="nodejs" src=" " />
   
-</div><br/>
+  <img align="center" alt="nodejs" src=" " />
+   
+ </div><br/>
+
 
 ## Redes Sociais
   
