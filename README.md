@@ -44,6 +44,11 @@
 
   <img align="center" alt="Dbeaver" src="https://img.shields.io/badge/dbeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white" />
 
+  <img align="center" alt="Insomnia" src="https://img.shields.io/badge/Insomnia-5849be?style=for-the-badge&logo=Insomnia&logoColor=white" />
+  
+
+  
+
   
 
 </div><br/> 
