@@ -79,7 +79,7 @@
   
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-  <img align="center" alt="Laravel" src="" />
+  <img align="center" alt="" src="" />
 
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
