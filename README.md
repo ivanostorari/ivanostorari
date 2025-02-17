@@ -67,8 +67,7 @@
 
   <img align="center" alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> 
 
-  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
-
+ 
 
  
   
@@ -100,9 +99,9 @@
 
   <img align="center" alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
 
-  <img align="center" alt=" " src=" " />
+  <img align="center" alt="" src="" />
   
-  <img align="center" alt=" " src=" " />
+  <img align="center" alt="" src="" />
    
  </div><br/>
 
@@ -114,7 +113,8 @@
 
   <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> 
 
-  <img align="center" alt="Eclipse" src="" /> 
+   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
+
 
 
  
