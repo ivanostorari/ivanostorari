@@ -81,7 +81,7 @@
   
   <img align="center" alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 
-  <img align="center" alt="" src="" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 
   <img align="center" alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   
@@ -101,7 +101,7 @@
 
   <img align="center" alt="" src="" />
   
-  <img align="center" alt="" src="" />
+  <img align="center" alt="" src="	https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" />
    
  </div><br/>
 
@@ -113,7 +113,11 @@
 
   <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> 
 
-   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
+  <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
+
+  <img align="center" alt="Rider" src="	https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /> 
+
+  <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
 
 
