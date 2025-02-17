@@ -76,9 +76,9 @@
  
   <img align="center" alt="Microsoft" src="https://img.shields.io/badge/Microsoft%20Academic-2D9FD9?style=for-the-badge&logo=Microsoft%20Academic&logoColor=white" />
   
-  <img align="center" alt="Udemy" src="	https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
+  <img align="center" alt="Udemy" src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white" />
 
-  <img align="center" alt="W3Schools" src="	https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
+  <img align="center" alt="W3Schools" src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" />
 
   <img align="center" alt=" " src=" " />
   
