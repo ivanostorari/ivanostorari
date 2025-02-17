@@ -115,7 +115,7 @@
 
   <img align="center" alt="Eclipse" src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" /> 
 
-  <img align="center" alt="Rider" src="	https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /> 
+  <img align="center" alt="Rider" src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" /> 
 
   <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
