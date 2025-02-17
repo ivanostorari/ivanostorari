@@ -106,7 +106,20 @@
    
  </div><br/>
 
+## Ide's:
+  
+<div style="display: inline_block">
 
+  <img align="center" alt="VSCode" src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
+
+  <img align="center" alt="Visual_Studio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" /> 
+
+  <img align="center" alt="Eclipse" src="" /> 
+
+
+ 
+  
+</div><br/>
 ## Redes Sociais
   
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
