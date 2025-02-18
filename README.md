@@ -2,16 +2,14 @@
 
 - 🔭 I'm currently working on Back End with C#...
   
-- 🌱 I'm studying C#, .Net, Html, Css, JavaScript, TypeScript, Angular, Node, React, Sql, Postgres, Mongo, MySql...
+- 🌱 I'm studying C#, .Net, Html, Css, JavaScript, TypeScript, Angular, Node, React, Sql, Postgres, MySql, Mongo...
   
 - 😄 Pronouns: He/Him...
   
 <div>
-  <a href="https://github.com/ivanostorari">
-    
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=transparent"
-
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/toplangs/?username=ivanostorari&layout=compact&langs_count=16&theme=dracula"
+  <a href="https://github.com/ivanostorari/convoychat">    
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=dark#gh-dark-mode-only"
+  
     
 </div>
 
