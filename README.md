@@ -123,12 +123,11 @@
 
   <img align="center" alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 
-
-
- 
   
 </div><br/>
-## Redes Sociais
+
+
+## Redes Sociais:
   
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@IvanOstorari-ue1cr/playlists)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-wagner-ostorari-filho-11977134/?trk=opento_sprofile_goalscard)
