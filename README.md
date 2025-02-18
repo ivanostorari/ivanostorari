@@ -7,10 +7,9 @@
 - 😄 Pronouns: He/Him...
   
 <div>
- 
   <a href="https://github.com/ivanostorari">
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=transparent"
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=dark#gh-dark-mode-only"
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api/toplangs/?username=ivanostorari&layout=compact&langs_count-16&theme=dracula"
 
 </div>
 
