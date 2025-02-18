@@ -6,6 +6,14 @@
   
 - 😄 Pronouns: He/Him...
   
+<div>
+
+
+
+
+
+</div>
+
 
 ## Tecnologias que eu uso no meu dia a dia:    
 
