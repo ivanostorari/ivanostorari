@@ -7,14 +7,12 @@
 - 😄 Pronouns: He/Him...
   
 <div>
+ 
   <a href="https://github.com/ivanostorari">
-  
-
-
-
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
+  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000"
 
 </div>
-
 
 ## Tecnologias que eu uso no meu dia a dia:    
 
