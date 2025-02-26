@@ -10,6 +10,8 @@
   <a href="https://github.com/ivanostorari/convoychat">    
   <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=ivanostorari&show_icons=true&theme=dark#gh-dark-mode-only"
   
+
+  
     
 </div>
 
@@ -55,12 +57,6 @@
 
   <img align="center" alt="GitLab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
 
-  
-  
-
-  
-
-  
 
 </div><br/> 
 
