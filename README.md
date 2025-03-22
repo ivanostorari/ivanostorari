@@ -14,6 +14,10 @@
 
 ###
 
+<img src="https://raw.githubusercontent.com/ivanostorari/ivanostorari/output/snake.svg" alt="Snake animation" />
+
+###
+
 <p align="left">Tecnologias que eu uso no meu dia a dia.</p>
 
 ###
