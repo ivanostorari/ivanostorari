@@ -58,23 +58,11 @@
 ###
 
 <div align="left">
- 
-</div>
-
-###
-
-<p align="left">Tecnologias que ainda vou desenvolver:</p>
-
-###
-
-<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+ 
 </div>
 
 ###
